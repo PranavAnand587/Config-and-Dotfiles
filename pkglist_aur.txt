@@ -1,0 +1,7 @@
+alacritty-themes
+cherry-font-git
+font-manager-git
+nerd-fonts-roboto-mono
+ttf-font-awesome-5
+ttf-font-logos
+ttf-meslo-nerd-font-powerlevel10k
