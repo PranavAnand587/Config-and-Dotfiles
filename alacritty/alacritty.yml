@@ -10,7 +10,7 @@ scrolling:
 font:
   normal:
     family: "MesloLGS NF"
-    size: 2
+  size: 9
 
 colors:
   name: Neon
