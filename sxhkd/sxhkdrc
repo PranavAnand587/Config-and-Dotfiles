@@ -8,9 +8,8 @@ super + Return
 
 # program launcher
 super + d
-	rofi -modi drun -show drun -line-padding 4 \
-                -columns 2 -padding 50 -hide-scrollbar -terminal xfce4-terminal \
-                -show-icons -drun-icon-theme "Arc-X-D" -font "Droid Sans Regular 10"
+  ~/.config/rofi/launchers/type-3/launcher.sh
+
 
 # show open window
 super + ctrl + d
@@ -26,7 +25,7 @@ super + shift + d
 
 # power-menu 
 super + x
-     ~/.config/rofi/powermenu.sh
+     ~/.config/rofi/powermenu/type-4/powermenu.sh
 
 # make sxhkd reload its configuration files:
 super + Escape
