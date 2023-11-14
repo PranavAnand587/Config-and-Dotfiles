@@ -170,6 +170,9 @@ Print
 super + Print
   ~/.config/bspwm/scripts/screenshot.sh
 
+super + shift + s
+  flameshot gui
+
 # Shortcuts
 super + w 
   firefox
