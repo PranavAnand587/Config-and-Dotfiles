@@ -1,0 +1,36 @@
+2023-11-06 08:05:51.303 [info] Deleted uninstalled extension from disk ms-azuretools.vscode-docker /home/pranavanand/.vscode/extensions/ms-azuretools.vscode-docker-1.26.1
+2023-11-06 08:05:55.985 [info] Getting Manifest... amazonwebservices.aws-toolkit-vscode
+2023-11-06 08:05:55.987 [info] Getting Manifest... ms-python.python
+2023-11-06 08:05:55.988 [info] Getting Manifest... ms-python.vscode-pylance
+2023-11-06 08:05:55.988 [info] Getting Manifest... rangav.vscode-thunder-client
+2023-11-06 08:05:56.018 [info] Installing extension: ms-python.python
+2023-11-06 08:05:56.020 [info] Installing extension: ms-python.vscode-pylance
+2023-11-06 08:05:56.084 [info] Installing extension: amazonwebservices.aws-toolkit-vscode
+2023-11-06 08:05:56.172 [info] Installing extension: rangav.vscode-thunder-client
+2023-11-06 08:05:56.767 [info] Getting Manifest... ms-python.python
+2023-11-06 08:05:56.810 [info] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-11-06 08:05:59.126 [warning] Extension signature verification failed with error 'UnknownError': rangav.vscode-thunder-client
+2023-11-06 08:05:59.207 [info] Extracted extension to file:///home/pranavanand/.vscode/extensions/rangav.vscode-thunder-client-2.15.0: rangav.vscode-thunder-client
+2023-11-06 08:05:59.214 [info] Renamed to /home/pranavanand/.vscode/extensions/rangav.vscode-thunder-client-2.15.0
+2023-11-06 08:05:59.215 [info] Extracting extension completed. rangav.vscode-thunder-client
+2023-11-06 08:05:59.226 [info] Extension installed successfully: rangav.vscode-thunder-client
+2023-11-06 08:05:59.229 [info] Marked extension as uninstalled rangav.vscode-thunder-client-2.13.5
+2023-11-06 08:06:00.612 [warning] Extension signature verification failed with error 'UnknownError': ms-python.python
+2023-11-06 08:06:01.258 [warning] Extension signature verification failed with error 'UnknownError': amazonwebservices.aws-toolkit-vscode
+2023-11-06 08:06:02.073 [info] Extracted extension to file:///home/pranavanand/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.97.0: amazonwebservices.aws-toolkit-vscode
+2023-11-06 08:06:02.084 [info] Renamed to /home/pranavanand/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.97.0
+2023-11-06 08:06:02.088 [info] Extracting extension completed. amazonwebservices.aws-toolkit-vscode
+2023-11-06 08:06:02.099 [info] Extension installed successfully: amazonwebservices.aws-toolkit-vscode
+2023-11-06 08:06:02.102 [info] Marked extension as uninstalled amazonwebservices.aws-toolkit-vscode-1.94.0
+2023-11-06 08:06:02.288 [info] Extracted extension to file:///home/pranavanand/.vscode/extensions/ms-python.python-2023.20.0: ms-python.python
+2023-11-06 08:06:02.296 [info] Renamed to /home/pranavanand/.vscode/extensions/ms-python.python-2023.20.0
+2023-11-06 08:06:02.300 [info] Extracting extension completed. ms-python.python
+2023-11-06 08:06:02.310 [info] Extension installed successfully: ms-python.python
+2023-11-06 08:06:02.311 [info] Finished waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-11-06 08:06:02.314 [info] Marked extension as uninstalled ms-python.python-2023.18.0
+2023-11-06 08:06:02.358 [warning] Extension signature verification failed with error 'UnknownError': ms-python.vscode-pylance
+2023-11-06 08:06:04.265 [info] Extracted extension to file:///home/pranavanand/.vscode/extensions/ms-python.vscode-pylance-2023.11.10: ms-python.vscode-pylance
+2023-11-06 08:06:04.276 [info] Renamed to /home/pranavanand/.vscode/extensions/ms-python.vscode-pylance-2023.11.10
+2023-11-06 08:06:04.277 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-11-06 08:06:04.289 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-11-06 08:06:04.292 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.10.20

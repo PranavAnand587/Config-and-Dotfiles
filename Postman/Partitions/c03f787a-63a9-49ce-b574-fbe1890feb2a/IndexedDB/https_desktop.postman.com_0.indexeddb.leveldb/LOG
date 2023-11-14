@@ -1,0 +1,40 @@
+2023/11/13-20:17:19.178 d310 Creating DB /home/pranavanand/.config/Postman/Partitions/c03f787a-63a9-49ce-b574-fbe1890feb2a/IndexedDB/https_desktop.postman.com_0.indexeddb.leveldb since it was missing.
+2023/11/13-20:17:19.194 d310 Reusing MANIFEST /home/pranavanand/.config/Postman/Partitions/c03f787a-63a9-49ce-b574-fbe1890feb2a/IndexedDB/https_desktop.postman.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/13-20:17:19.217 d2a7 Level-0 table #5: started
+2023/11/13-20:17:19.223 d2a7 Level-0 table #5: 2186 bytes OK
+2023/11/13-20:17:19.229 d2a7 Delete type=0 #3
+2023/11/13-20:17:19.230 d2a7 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/11/13-20:17:19.827 d2a7 Level-0 table #7: started
+2023/11/13-20:17:19.832 d2a7 Level-0 table #7: 2045 bytes OK
+2023/11/13-20:17:19.844 d2a7 Delete type=0 #4
+2023/11/13-20:17:19.844 d2a7 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/11/13-20:17:19.848 d30f Level-0 table #9: started
+2023/11/13-20:17:19.854 d30f Level-0 table #9: 512 bytes OK
+2023/11/13-20:17:19.860 d30f Delete type=0 #6
+2023/11/13-20:17:19.860 d30f Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 283 : 1
+2023/11/13-20:17:19.860 d30f Compacting 1@0 + 1@1 files
+2023/11/13-20:17:19.869 d30f Generated table #10@0: 111 keys, 1642 bytes
+2023/11/13-20:17:19.869 d30f Compacted 1@0 + 1@1 files => 1642 bytes
+2023/11/13-20:17:19.881 d30f compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/11/13-20:17:19.881 d30f Delete type=2 #9
+2023/11/13-20:17:19.881 d30f Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 283 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/11/13-21:43:34.741 fa0d Level-0 table #12: started
+2023/11/13-21:43:34.748 fa0d Level-0 table #12: 47437 bytes OK
+2023/11/13-21:43:34.762 fa0d Delete type=0 #8
+2023/11/13-21:43:34.762 fa0d Delete type=2 #7
+2023/11/13-21:43:34.762 fa0d Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x06\x1e\x02\x01$\x00e\x002\x00a\x00d\x000\x009\x00f\x004\x00-\x00f\x00f\x008\x008\x00-\x004\x007\x005\x009\x00-\x009\x00f\x001\x00d\x00-\x00c\x00a\x000\x00d\x00f\x005\x00b\x00b\x008\x00c\x00c\x00d' @ 3378 : 1
+2023/11/13-21:43:34.762 fa0d Compacting 1@0 + 1@1 files
+2023/11/13-21:43:34.769 fa0d Generated table #13@0: 1829 keys, 21780 bytes
+2023/11/13-21:43:34.769 fa0d Compacted 1@0 + 1@1 files => 21780 bytes
+2023/11/13-21:43:34.782 fa0d compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/11/13-21:43:34.782 fa0d Delete type=2 #10
+2023/11/13-21:43:34.782 fa0d Delete type=2 #12
+2023/11/13-21:43:34.783 fa0d Manual compaction at level-0 from '\x00\x06\x1e\x02\x01$\x00e\x002\x00a\x00d\x000\x009\x00f\x004\x00-\x00f\x00f\x008\x008\x00-\x004\x007\x005\x009\x00-\x009\x00f\x001\x00d\x00-\x00c\x00a\x000\x00d\x00f\x005\x00b\x00b\x008\x00c\x00c\x00d' @ 3378 : 1 .. (end); will stop at (end)
+2023/11/13-21:43:34.783 fa0d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x06\x1e\x02\x01$\x00e\x002\x00a\x00d\x000\x009\x00f\x004\x00-\x00f\x00f\x008\x008\x00-\x004\x007\x005\x009\x00-\x009\x00f\x001\x00d\x00-\x00c\x00a\x000\x00d\x00f\x005\x00b\x00b\x008\x00c\x00c\x00d' @ 3378 : 1
+2023/11/13-21:43:34.783 fa0d Compacting 1@1 + 1@2 files
+2023/11/13-21:43:34.789 fa0d Generated table #14@1: 707 keys, 12327 bytes
+2023/11/13-21:43:34.789 fa0d Compacted 1@1 + 1@2 files => 12327 bytes
+2023/11/13-21:43:34.802 fa0d compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/13-21:43:34.802 fa0d Delete type=2 #5
+2023/11/13-21:43:34.802 fa0d Delete type=2 #13
+2023/11/13-21:43:34.802 fa0d Manual compaction at level-1 from '\x00\x06\x1e\x02\x01$\x00e\x002\x00a\x00d\x000\x009\x00f\x004\x00-\x00f\x00f\x008\x008\x00-\x004\x007\x005\x009\x00-\x009\x00f\x001\x00d\x00-\x00c\x00a\x000\x00d\x00f\x005\x00b\x00b\x008\x00c\x00c\x00d' @ 3378 : 1 .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+2023-11-06 08:05:47.096 [info] update#setState idle
+2023-11-06 08:06:17.099 [info] update#setState checking for updates
+2023-11-06 08:06:17.105 [info] update#setState available for download
+2023-11-06 09:14:20.766 [error] Blocked vscode-webview request vscode-webview://0oq6tvqorgmqo21t515vovdr2aju8g3oqs7bluid83eidd586o81/index.html?id=0b25473f-ba1c-4106-bccd-8cf25b28b22d&origin=0b25473f-ba1c-4106-bccd-8cf25b28b22d&swVersion=4&extensionId=&platform=electron&vscode-resource-base-authority=vscode-resource.vscode-cdn.net&parentOrigin=vscode-file%3A%2F%2Fvscode-app
+2023-11-06 09:15:00.587 [info] Extension host with pid 10221 exited with code: 0, signal: unknown.

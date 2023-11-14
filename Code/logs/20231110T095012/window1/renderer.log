@@ -1,0 +1,18 @@
+2023-11-10 09:50:16.986 [error] [Extension Host] (node:37379) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the migration guide at https://a.co/7PzMCcy
+(Use `exe --trace-warnings ...` to show where the warning was created)
+2023-11-10 09:50:18.237 [info] [perf] Render performance baseline is 24ms
+2023-11-10 09:51:40.489 [error] [Extension Host] (node:37503) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the migration guide at https://a.co/7PzMCcy
+(Use `exe --trace-warnings ...` to show where the warning was created)
+2023-11-10 09:51:41.986 [info] [perf] Render performance baseline is 22ms
+2023-11-10 09:52:33.985 [info] [perf] Render performance baseline is 23ms
+2023-11-10 09:52:35.618 [error] [Extension Host] (node:37801) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the migration guide at https://a.co/7PzMCcy
+(Use `exe --trace-warnings ...` to show where the warning was created)

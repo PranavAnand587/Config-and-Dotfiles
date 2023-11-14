@@ -1,0 +1,44 @@
+2023-11-13 00:28:39 [INFO]: Preparing to debug locally: Lambda "index.handler"
+2023-11-13 00:28:39 [INFO]: Building SAM application...
+2023-11-13 00:28:39 [INFO]: Command: (not started) [/usr/local/bin/sam build --build-dir /tmp/aws-toolkit-vscode/vsctksyplDj/output --template /tmp/aws-toolkit-vscode/vsctksyplDj/app___vsctk___template.yaml --base-dir /home/pranavanand/Projects/Nthusiast/API/GmailService]
+2023-11-13 00:28:40 [INFO]: Building codeuri: /home/pranavanand/Projects/Nthusiast/API/GmailService runtime: nodejs18.x metadata: {} architecture: x86_64 functions: GmailService
+
+2023-11-13 00:28:40 [INFO]: package.json file not found. Continuing the build without dependencies.
+
+2023-11-13 00:28:40 [INFO]:  Running NodejsNpmBuilder:CopySource
+
+2023-11-13 00:28:40 [INFO]: 
+Build Succeeded
+
+2023-11-13 00:28:40 [INFO]: 
+Built Artifacts  : output
+Built Template   : output/template.yaml
+
+Commands you can use next
+=========================
+[*] Validate SAM template: sam validate
+[*] Invoke Function: sam local invoke -t output/template.yaml
+[*] Test Function in the Cloud: sam sync --stack-name {{stack-name}} --watch
+[*] Deploy: sam deploy --guided --template-file output/template.yaml
+
+2023-11-13 00:28:42 [INFO]: Build complete.
+2023-11-13 00:28:42 [INFO]: Starting SAM application locally
+2023-11-13 00:28:42 [INFO]: AWS.running.command
+Invoking index.handler (nodejs18.x)
+Local image is out of date and will be updated to the latest runtime. To skip this, pass in the parameter --skip-pull-image
+Building image.......................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+Using local image: public.ecr.aws/lambda/nodejs:18-rapid-x86_64.
+
+Mounting /tmp/aws-toolkit-vscode/vsctksyplDj/output/GmailService as /var/task:ro,delegated, inside runtime container
+START RequestId: 749ea275-5157-43ed-9b22-443f2c35e2bd Version: $LATEST
+Debugger listening on ws://0.0.0.0:5858/0971720d-57c9-4816-abb9-81fbbcfa13f8
+For help, see: https://nodejs.org/en/docs/inspector
+2023-11-13 00:29:43 [INFO]: Waiting for SAM application to start...
+2023-11-13 00:29:43 [INFO]: Attaching debugger to SAM application...
+Debugger attached.
+2023-11-13 00:29:43 [INFO]: Debugger attached
+2023-11-12T18:59:43.675Z	749ea275-5157-43ed-9b22-443f2c35e2bd	INFO	1699815583675
+END RequestId: 749ea275-5157-43ed-9b22-443f2c35e2bd
+REPORT RequestId: 749ea275-5157-43ed-9b22-443f2c35e2bd	Init Duration: 0.11 ms	Duration: 507.50 ms	Billed Duration: 508 ms	Memory Size: 128 MB	Max Memory Used: 128 MB	
+{"statusCode": 200, "body": "OK"}
+Command stopped: "sam local invoke"

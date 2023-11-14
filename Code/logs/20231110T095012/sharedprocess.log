@@ -1,0 +1,87 @@
+2023-11-10 09:50:16.391 [info] Deleted uninstalled extension from disk rangav.vscode-thunder-client /home/pranavanand/.vscode/extensions/rangav.vscode-thunder-client-2.13.5
+2023-11-10 09:50:16.444 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/pranavanand/.vscode/extensions/rangav.vscode-thunder-client-2.13.5.6941de94.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/pranavanand/.vscode/extensions/rangav.vscode-thunder-client-2.13.5.6941de94.vsctmp'
+    at n.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:34:30248)
+    at i (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:34:30364)
+    at t.ab (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:39:35344)
+    at t.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:39:28004)
+    at async w.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:39:15546)
+    at async X.pb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:9372)
+2023-11-10 09:50:16.490 [info] Deleted uninstalled extension from disk amazonwebservices.aws-toolkit-vscode /home/pranavanand/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.94.0
+2023-11-10 09:50:16.562 [info] Deleted uninstalled extension from disk ms-python.vscode-pylance /home/pranavanand/.vscode/extensions/ms-python.vscode-pylance-2023.10.20
+2023-11-10 09:50:16.604 [info] Deleted uninstalled extension from disk ms-python.python /home/pranavanand/.vscode/extensions/ms-python.python-2023.18.0
+2023-11-10 09:50:20.109 [info] Getting Manifest... amazonwebservices.aws-toolkit-vscode
+2023-11-10 09:50:20.111 [info] Getting Manifest... rangav.vscode-thunder-client
+2023-11-10 09:50:20.350 [info] Installing extension: rangav.vscode-thunder-client
+2023-11-10 09:50:20.510 [info] Installing extension: amazonwebservices.aws-toolkit-vscode
+2023-11-10 09:50:25.886 [warning] Extension signature verification failed with error 'UnknownError': rangav.vscode-thunder-client
+2023-11-10 09:50:25.948 [info] Extracted extension to file:///home/pranavanand/.vscode/extensions/rangav.vscode-thunder-client-2.15.3: rangav.vscode-thunder-client
+2023-11-10 09:50:25.956 [info] Renamed to /home/pranavanand/.vscode/extensions/rangav.vscode-thunder-client-2.15.3
+2023-11-10 09:50:25.957 [info] Extracting extension completed. rangav.vscode-thunder-client
+2023-11-10 09:50:25.967 [info] Extension installed successfully: rangav.vscode-thunder-client
+2023-11-10 09:50:25.970 [info] Marked extension as uninstalled rangav.vscode-thunder-client-2.15.0
+2023-11-10 09:50:26.843 [warning] Extension signature verification failed with error 'UnknownError': amazonwebservices.aws-toolkit-vscode
+2023-11-10 09:50:27.577 [info] Extracted extension to file:///home/pranavanand/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.98.0: amazonwebservices.aws-toolkit-vscode
+2023-11-10 09:50:27.586 [info] Renamed to /home/pranavanand/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.98.0
+2023-11-10 09:50:27.590 [info] Extracting extension completed. amazonwebservices.aws-toolkit-vscode
+2023-11-10 09:50:27.603 [info] Extension installed successfully: amazonwebservices.aws-toolkit-vscode
+2023-11-10 09:50:27.608 [info] Marked extension as uninstalled amazonwebservices.aws-toolkit-vscode-1.97.0
+2023-11-10 09:54:29.389 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'then'): TypeError: Cannot read properties of undefined (reading 'then')
+    at v.s (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:26:4731)
+    at v.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:26:4161)
+    at c.value (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:26:3566)
+    at b.w (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:21:1902)
+    at b.x (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:21:1972)
+    at b.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:21:2188)
+    at MessagePortMain.te (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:19:40559)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2023-11-10 09:54:29.673 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'then'): TypeError: Cannot read properties of undefined (reading 'then')
+    at v.s (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:26:4731)
+    at v.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:26:4161)
+    at c.value (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:26:3566)
+    at b.w (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:21:1902)
+    at b.x (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:21:1972)
+    at b.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:21:2188)
+    at MessagePortMain.te (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:19:40559)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2023-11-10 09:55:15.048 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'then'): TypeError: Cannot read properties of undefined (reading 'then')
+    at v.s (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:26:4731)
+    at v.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:26:4161)
+    at c.value (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:26:3566)
+    at b.w (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:21:1902)
+    at b.x (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:21:1972)
+    at b.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:21:2188)
+    at MessagePortMain.te (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:19:40559)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2023-11-10 09:55:15.389 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'then'): TypeError: Cannot read properties of undefined (reading 'then')
+    at v.s (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:26:4731)
+    at v.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:26:4161)
+    at c.value (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:26:3566)
+    at b.w (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:21:1902)
+    at b.x (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:21:1972)
+    at b.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:21:2188)
+    at MessagePortMain.te (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:19:40559)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2023-11-10 09:55:46.654 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'then'): TypeError: Cannot read properties of undefined (reading 'then')
+    at v.s (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:26:4731)
+    at v.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:26:4161)
+    at c.value (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:26:3566)
+    at b.w (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:21:1902)
+    at b.x (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:21:1972)
+    at b.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:21:2188)
+    at MessagePortMain.te (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:19:40559)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2023-11-10 09:55:46.972 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'then'): TypeError: Cannot read properties of undefined (reading 'then')
+    at v.s (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:26:4731)
+    at v.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:26:4161)
+    at c.value (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:26:3566)
+    at b.w (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:21:1902)
+    at b.x (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:21:1972)
+    at b.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:21:2188)
+    at MessagePortMain.te (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:19:40559)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)

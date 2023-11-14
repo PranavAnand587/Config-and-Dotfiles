@@ -1,0 +1,22 @@
+2023/11/13-20:17:24.219 d30f Reusing MANIFEST /home/pranavanand/.config/Postman/Partitions/09ecb0d8-4224-4480-af88-14f0f30f1ce2/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2023/11/13-20:17:24.219 d30f Recovering log #6
+2023/11/13-20:17:24.221 d30f Reusing old log /home/pranavanand/.config/Postman/Partitions/09ecb0d8-4224-4480-af88-14f0f30f1ce2/IndexedDB/file__0.indexeddb.leveldb/000006.log 
+2023/11/13-21:43:34.742 fa12 Level-0 table #10: started
+2023/11/13-21:43:34.754 fa12 Level-0 table #10: 37229 bytes OK
+2023/11/13-21:43:34.764 fa12 Delete type=0 #6
+2023/11/13-21:43:34.765 fa12 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x04\x01\x02\x01\x0b\x00p\x00o\x00s\x00t\x00m\x00a\x00n\x00-\x00a\x00p\x00p' @ 1115 : 1
+2023/11/13-21:43:34.765 fa12 Compacting 1@0 + 1@1 files
+2023/11/13-21:43:34.774 fa12 Generated table #11@0: 1652 keys, 18060 bytes
+2023/11/13-21:43:34.774 fa12 Compacted 1@0 + 1@1 files => 18060 bytes
+2023/11/13-21:43:34.785 fa12 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/11/13-21:43:34.785 fa12 Delete type=2 #10
+2023/11/13-21:43:34.785 fa12 Delete type=2 #7
+2023/11/13-21:43:34.785 fa12 Manual compaction at level-0 from '\x00\x04\x01\x02\x01\x0b\x00p\x00o\x00s\x00t\x00m\x00a\x00n\x00-\x00a\x00p\x00p' @ 1115 : 1 .. (end); will stop at (end)
+2023/11/13-21:43:34.785 fa12 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x02\x01\x0b\x00p\x00o\x00s\x00t\x00m\x00a\x00n\x00-\x00a\x00p\x00p' @ 3053 : 1
+2023/11/13-21:43:34.785 fa12 Compacting 1@1 + 1@2 files
+2023/11/13-21:43:34.794 fa12 Generated table #12@1: 647 keys, 9593 bytes
+2023/11/13-21:43:34.794 fa12 Compacted 1@1 + 1@2 files => 9593 bytes
+2023/11/13-21:43:34.804 fa12 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/13-21:43:34.804 fa12 Delete type=2 #5
+2023/11/13-21:43:34.804 fa12 Delete type=2 #11
+2023/11/13-21:43:34.804 fa12 Manual compaction at level-1 from '\x00\x04\x01\x02\x01\x0b\x00p\x00o\x00s\x00t\x00m\x00a\x00n\x00-\x00a\x00p\x00p' @ 3053 : 1 .. (end); will stop at (end)

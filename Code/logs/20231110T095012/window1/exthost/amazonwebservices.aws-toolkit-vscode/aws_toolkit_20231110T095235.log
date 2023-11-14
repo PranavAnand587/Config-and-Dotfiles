@@ -1,0 +1,60 @@
+2023-11-10 09:52:35 [INFO]: log level: info
+2023-11-10 09:52:35 [INFO]: endpoints: retrieving AWS endpoints data
+2023-11-10 09:52:35 [INFO]: OS: Linux x64 6.1.51-1-lts
+2023-11-10 09:52:35 [INFO]: Visual Studio Code extension host:  1.82.0
+2023-11-10 09:52:35 [INFO]: AWS Toolkit:  1.98.0
+2023-11-10 09:52:35 [INFO]: node: 18.15.0
+2023-11-10 09:52:35 [INFO]: electron: 25.8.0
+2023-11-10 09:52:35 [WARN]: AwsContext: no default region in credentials profile, falling back to us-east-1: 
+2023-11-10 09:52:37 [WARN]: AwsContext: no default region in credentials profile, falling back to us-east-1: profile:Nthusiast
+2023-11-10 09:52:57 [INFO]: CloudFormationTemplateRegistry: building with: Watching **/*.{yaml,yml}, Untitled Files, Excluding /.*devfile\.(yaml|yml)/i, /.*[/\\]\.aws-sam([/\\].*|$)/
+2023-11-10 09:52:57 [INFO]: CloudFormationTemplateRegistry: processed 0 items
+2023-11-10 09:53:21 [INFO]: SAM CLI location (version: 1.97.0): /usr/local/bin/sam
+2023-11-10 09:53:21 [INFO]: Preparing to debug locally: Lambda "index.handler"
+2023-11-10 09:53:21 [INFO]: Building SAM application...
+2023-11-10 09:53:21 [INFO]: SAM CLI not configured, using SAM found at: '/usr/local/bin/sam'
+2023-11-10 09:53:21 [INFO]: Command: (not started) [/usr/local/bin/sam build --build-dir /tmp/aws-toolkit-vscode/vsctk1de3p8/output --template /tmp/aws-toolkit-vscode/vsctk1de3p8/app___vsctk___template.yaml --base-dir /home/pranavanand/Projects/Nthusiast/API/GmailService]
+2023-11-10 09:53:25 [INFO]: Build complete.
+2023-11-10 09:53:25 [INFO]: Starting SAM application locally
+2023-11-10 09:53:25 [INFO]: SAM CLI not configured, using SAM found at: '/usr/local/bin/sam'
+2023-11-10 09:53:25 [INFO]: AWS.running.command
+2023-11-10 09:53:25 [INFO]: Command: (not started) [/usr/local/bin/sam local invoke GmailService --template /tmp/aws-toolkit-vscode/vsctk1de3p8/output/template.yaml -d 5858]
+2023-11-10 09:53:28 [ERROR]: SamLaunchRequestError: SAM local invoke failed: Running AWS SAM projects locally requires Docker.
+2023-11-10 09:53:48 [INFO]: Preparing to debug locally: Lambda "index.handler"
+2023-11-10 09:53:48 [INFO]: Building SAM application...
+2023-11-10 09:53:48 [INFO]: SAM CLI not configured, using SAM found at: '/usr/local/bin/sam'
+2023-11-10 09:53:48 [INFO]: Command: (not started) [/usr/local/bin/sam build --build-dir /tmp/aws-toolkit-vscode/vsctkFvLtgB/output --template /tmp/aws-toolkit-vscode/vsctkFvLtgB/app___vsctk___template.yaml --base-dir /home/pranavanand/Projects/Nthusiast/API/GmailService]
+2023-11-10 09:53:51 [INFO]: Build complete.
+2023-11-10 09:53:51 [INFO]: Starting SAM application locally
+2023-11-10 09:53:51 [INFO]: SAM CLI not configured, using SAM found at: '/usr/local/bin/sam'
+2023-11-10 09:53:51 [INFO]: AWS.running.command
+2023-11-10 09:53:51 [INFO]: Command: (not started) [/usr/local/bin/sam local invoke GmailService --template /tmp/aws-toolkit-vscode/vsctkFvLtgB/output/template.yaml -d 5858]
+2023-11-10 09:54:29 [INFO]: Waiting for SAM application to start...
+2023-11-10 09:54:29 [INFO]: Attaching debugger to SAM application...
+2023-11-10 09:54:29 [INFO]: Debugger attached
+2023-11-10 09:55:05 [INFO]: Preparing to debug locally: Lambda "index.handler"
+2023-11-10 09:55:05 [INFO]: Building SAM application...
+2023-11-10 09:55:05 [INFO]: SAM CLI not configured, using SAM found at: '/usr/local/bin/sam'
+2023-11-10 09:55:05 [INFO]: Command: (not started) [/usr/local/bin/sam build --build-dir /tmp/aws-toolkit-vscode/vsctkc27Njy/output --template /tmp/aws-toolkit-vscode/vsctkc27Njy/app___vsctk___template.yaml --base-dir /home/pranavanand/Projects/Nthusiast/API/GmailService]
+2023-11-10 09:55:08 [INFO]: Build complete.
+2023-11-10 09:55:08 [INFO]: Starting SAM application locally
+2023-11-10 09:55:08 [INFO]: SAM CLI not configured, using SAM found at: '/usr/local/bin/sam'
+2023-11-10 09:55:08 [INFO]: AWS.running.command
+2023-11-10 09:55:08 [INFO]: Command: (not started) [/usr/local/bin/sam local invoke GmailService --template /tmp/aws-toolkit-vscode/vsctkc27Njy/output/template.yaml -d 5858]
+2023-11-10 09:55:14 [INFO]: Waiting for SAM application to start...
+2023-11-10 09:55:14 [INFO]: Attaching debugger to SAM application...
+2023-11-10 09:55:15 [INFO]: Debugger attached
+2023-11-10 09:55:37 [INFO]: Preparing to debug locally: Lambda "index.handler"
+2023-11-10 09:55:37 [INFO]: Building SAM application...
+2023-11-10 09:55:37 [INFO]: SAM CLI not configured, using SAM found at: '/usr/local/bin/sam'
+2023-11-10 09:55:37 [INFO]: Command: (not started) [/usr/local/bin/sam build --build-dir /tmp/aws-toolkit-vscode/vsctkV2elEF/output --template /tmp/aws-toolkit-vscode/vsctkV2elEF/app___vsctk___template.yaml --base-dir /home/pranavanand/Projects/Nthusiast/API/GmailService]
+2023-11-10 09:55:40 [INFO]: Build complete.
+2023-11-10 09:55:40 [INFO]: Starting SAM application locally
+2023-11-10 09:55:40 [INFO]: SAM CLI not configured, using SAM found at: '/usr/local/bin/sam'
+2023-11-10 09:55:40 [INFO]: AWS.running.command
+2023-11-10 09:55:40 [INFO]: Command: (not started) [/usr/local/bin/sam local invoke GmailService --template /tmp/aws-toolkit-vscode/vsctkV2elEF/output/template.yaml -d 5858]
+2023-11-10 09:55:46 [INFO]: Waiting for SAM application to start...
+2023-11-10 09:55:46 [INFO]: Attaching debugger to SAM application...
+2023-11-10 09:55:46 [INFO]: Debugger attached
+2023-11-10 09:57:40 [INFO]: telemetry: sent batch (size=20)
+2023-11-10 09:57:41 [INFO]: telemetry: sent batch (size=11)

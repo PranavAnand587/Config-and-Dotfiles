@@ -1,0 +1,8 @@
+2023-11-10 09:51:40 [INFO]: log level: info
+2023-11-10 09:51:40 [INFO]: endpoints: retrieving AWS endpoints data
+2023-11-10 09:51:40 [INFO]: OS: Linux x64 6.1.51-1-lts
+2023-11-10 09:51:40 [INFO]: Visual Studio Code extension host:  1.82.0
+2023-11-10 09:51:40 [INFO]: AWS Toolkit:  1.98.0
+2023-11-10 09:51:40 [INFO]: node: 18.15.0
+2023-11-10 09:51:40 [INFO]: electron: 25.8.0
+2023-11-10 09:51:44 [WARN]: AwsContext: no default region in credentials profile, falling back to us-east-1: profile:Nthusiast

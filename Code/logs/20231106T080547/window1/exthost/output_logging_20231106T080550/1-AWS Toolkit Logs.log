@@ -1,0 +1,11 @@
+2023-11-06 09:14:14 [INFO]: log level: info
+2023-11-06 09:14:14 [INFO]: endpoints: retrieving AWS endpoints data
+2023-11-06 09:14:14 [INFO]: OS: Linux x64 6.1.51-1-lts
+2023-11-06 09:14:14 [INFO]: Visual Studio Code extension host:  1.82.0
+2023-11-06 09:14:14 [INFO]: AWS Toolkit:  1.94.0
+2023-11-06 09:14:14 [INFO]: node: 18.15.0
+2023-11-06 09:14:14 [INFO]: electron: 25.8.0
+2023-11-06 09:14:15 [INFO]: telemetry cache not found: '/home/pranavanand/.config/Code/User/globalStorage/amazonwebservices.aws-toolkit-vscode/telemetryCache'
+2023-11-06 09:14:15 [WARN]: AwsContext: no default region in credentials profile, falling back to us-east-1: 
+2023-11-06 09:14:17 [INFO]: auth: automatically connected with "profile:default"
+2023-11-06 09:14:19 [WARN]: AwsContext: no default region in credentials profile, falling back to us-east-1: profile:default

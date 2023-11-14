@@ -1,0 +1,6 @@
+2023-11-13 00:20:18.601 [error] [Extension Host] (node:68752) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the migration guide at https://a.co/7PzMCcy
+(Use `exe --trace-warnings ...` to show where the warning was created)
+2023-11-13 00:20:23.416 [info] [perf] Render performance baseline is 23ms

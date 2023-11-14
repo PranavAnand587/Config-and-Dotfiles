@@ -1,0 +1,1 @@
+2023-11-10 09:54:31.276 [error] electron #50: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED

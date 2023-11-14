@@ -1,0 +1,164 @@
+2023-11-10 09:53:21 [INFO]: Preparing to debug locally: Lambda "index.handler"
+2023-11-10 09:53:21 [INFO]: Building SAM application...
+2023-11-10 09:53:21 [INFO]: Command: (not started) [/usr/local/bin/sam build --build-dir /tmp/aws-toolkit-vscode/vsctk1de3p8/output --template /tmp/aws-toolkit-vscode/vsctk1de3p8/app___vsctk___template.yaml --base-dir /home/pranavanand/Projects/Nthusiast/API/GmailService]
+2023-11-10 09:53:22 [INFO]: Building codeuri: /home/pranavanand/Projects/Nthusiast/API/GmailService runtime: nodejs18.x metadata: {} architecture: x86_64 functions: GmailService
+
+2023-11-10 09:53:22 [INFO]: package.json file not found. Continuing the build without dependencies.
+
+2023-11-10 09:53:22 [INFO]:  Running NodejsNpmBuilder:CopySource
+
+2023-11-10 09:53:22 [INFO]: 
+Build Succeeded
+
+2023-11-10 09:53:22 [INFO]: 
+Built Artifacts  : output
+Built Template   : output/template.yaml
+
+Commands you can use next
+=========================
+[*] Validate SAM template: sam validate
+[*] Invoke Function: sam local invoke -t output/template.yaml
+[*] Test Function in the Cloud: sam sync --stack-name {{stack-name}} --watch
+[*] Deploy: sam deploy --guided --template-file output/template.yaml
+
+2023-11-10 09:53:23 [INFO]: 
+SAM CLI update available (1.101.0); (1.97.0 installed)
+To download: https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install.html
+
+2023-11-10 09:53:25 [INFO]: Build complete.
+2023-11-10 09:53:25 [INFO]: Starting SAM application locally
+2023-11-10 09:53:25 [INFO]: AWS.running.command
+Error: Running AWS SAM projects locally requires Docker. Have you got it installed and running?
+
+Command stopped: "sam local invoke"
+2023-11-10 09:53:48 [INFO]: Preparing to debug locally: Lambda "index.handler"
+2023-11-10 09:53:48 [INFO]: Building SAM application...
+2023-11-10 09:53:48 [INFO]: Command: (not started) [/usr/local/bin/sam build --build-dir /tmp/aws-toolkit-vscode/vsctkFvLtgB/output --template /tmp/aws-toolkit-vscode/vsctkFvLtgB/app___vsctk___template.yaml --base-dir /home/pranavanand/Projects/Nthusiast/API/GmailService]
+2023-11-10 09:53:49 [INFO]: Building codeuri: /home/pranavanand/Projects/Nthusiast/API/GmailService runtime: nodejs18.x metadata: {} architecture: x86_64 functions: GmailService
+
+2023-11-10 09:53:49 [INFO]: package.json file not found. Continuing the build without dependencies.
+
+2023-11-10 09:53:49 [INFO]:  Running NodejsNpmBuilder:CopySource
+
+2023-11-10 09:53:49 [INFO]: 
+Build Succeeded
+
+2023-11-10 09:53:49 [INFO]: 
+Built Artifacts  : output
+Built Template   : output/template.yaml
+
+Commands you can use next
+=========================
+[*] Validate SAM template: sam validate
+[*] Invoke Function: sam local invoke -t output/template.yaml
+[*] Test Function in the Cloud: sam sync --stack-name {{stack-name}} --watch
+[*] Deploy: sam deploy --guided --template-file output/template.yaml
+
+2023-11-10 09:53:51 [INFO]: Build complete.
+2023-11-10 09:53:51 [INFO]: Starting SAM application locally
+2023-11-10 09:53:51 [INFO]: AWS.running.command
+Invoking index.handler (nodejs18.x)
+Local image was not found.
+Removing rapid images for repo public.ecr.aws/sam/emulation-nodejs18.x
+Building image.........................................................................................................................................................................................................................................................................................................................................................
+Using local image: public.ecr.aws/lambda/nodejs:18-rapid-x86_64.
+
+Mounting /tmp/aws-toolkit-vscode/vsctkFvLtgB/output/GmailService as /var/task:ro,delegated, inside runtime container
+START RequestId: d5b8569d-4121-4afd-a7c9-daf43c4d9f6d Version: $LATEST
+Debugger listening on ws://0.0.0.0:5858/a8db8b1b-bebc-40e7-9ff6-540c811943d6
+For help, see: https://nodejs.org/en/docs/inspector
+2023-11-10 09:54:29 [INFO]: Waiting for SAM application to start...
+2023-11-10 09:54:29 [INFO]: Attaching debugger to SAM application...
+Debugger attached.
+2023-11-10 09:54:29 [INFO]: Debugger attached
+2023-11-10T04:24:29.685Z	d5b8569d-4121-4afd-a7c9-daf43c4d9f6d	INFO	{}
+END RequestId: d5b8569d-4121-4afd-a7c9-daf43c4d9f6d
+REPORT RequestId: d5b8569d-4121-4afd-a7c9-daf43c4d9f6d	Init Duration: 0.08 ms	Duration: 680.32 ms	Billed Duration: 681 ms	Memory Size: 128 MB	Max Memory Used: 128 MB	
+{"statusCode": 200, "body": "OK"}
+Command stopped: "sam local invoke"
+2023-11-10 09:55:05 [INFO]: Preparing to debug locally: Lambda "index.handler"
+2023-11-10 09:55:05 [INFO]: Building SAM application...
+2023-11-10 09:55:05 [INFO]: Command: (not started) [/usr/local/bin/sam build --build-dir /tmp/aws-toolkit-vscode/vsctkc27Njy/output --template /tmp/aws-toolkit-vscode/vsctkc27Njy/app___vsctk___template.yaml --base-dir /home/pranavanand/Projects/Nthusiast/API/GmailService]
+2023-11-10 09:55:06 [INFO]: Building codeuri: /home/pranavanand/Projects/Nthusiast/API/GmailService runtime: nodejs18.x metadata: {} architecture: x86_64 functions: GmailService
+
+2023-11-10 09:55:06 [INFO]: package.json file not found. Continuing the build without dependencies.
+
+2023-11-10 09:55:06 [INFO]:  Running NodejsNpmBuilder:CopySource
+
+2023-11-10 09:55:06 [INFO]: 
+Build Succeeded
+
+2023-11-10 09:55:06 [INFO]: 
+Built Artifacts  : output
+Built Template   : output/template.yaml
+
+Commands you can use next
+=========================
+[*] Validate SAM template: sam validate
+[*] Invoke Function: sam local invoke -t output/template.yaml
+[*] Test Function in the Cloud: sam sync --stack-name {{stack-name}} --watch
+[*] Deploy: sam deploy --guided --template-file output/template.yaml
+
+2023-11-10 09:55:08 [INFO]: Build complete.
+2023-11-10 09:55:08 [INFO]: Starting SAM application locally
+2023-11-10 09:55:08 [INFO]: AWS.running.command
+Invoking index.handler (nodejs18.x)
+Local image is up-to-date
+Using local image: public.ecr.aws/lambda/nodejs:18-rapid-x86_64.
+
+Mounting /tmp/aws-toolkit-vscode/vsctkc27Njy/output/GmailService as /var/task:ro,delegated, inside runtime container
+START RequestId: 2edc1cec-39d4-43ac-af91-875f63b7bec2 Version: $LATEST
+Debugger listening on ws://0.0.0.0:5858/f9866204-4a90-4c9c-88e8-e04d9db0107f
+For help, see: https://nodejs.org/en/docs/inspector
+2023-11-10 09:55:14 [INFO]: Waiting for SAM application to start...
+2023-11-10 09:55:14 [INFO]: Attaching debugger to SAM application...
+Debugger attached.
+2023-11-10 09:55:15 [INFO]: Debugger attached
+2023-11-10T04:25:15.323Z	2edc1cec-39d4-43ac-af91-875f63b7bec2	INFO	1699590315323
+END RequestId: 2edc1cec-39d4-43ac-af91-875f63b7bec2
+REPORT RequestId: 2edc1cec-39d4-43ac-af91-875f63b7bec2	Init Duration: 0.06 ms	Duration: 416.57 ms	Billed Duration: 417 ms	Memory Size: 128 MB	Max Memory Used: 128 MB	
+{"statusCode": 200, "body": "OK"}
+Command stopped: "sam local invoke"
+2023-11-10 09:55:37 [INFO]: Preparing to debug locally: Lambda "index.handler"
+2023-11-10 09:55:37 [INFO]: Building SAM application...
+2023-11-10 09:55:37 [INFO]: Command: (not started) [/usr/local/bin/sam build --build-dir /tmp/aws-toolkit-vscode/vsctkV2elEF/output --template /tmp/aws-toolkit-vscode/vsctkV2elEF/app___vsctk___template.yaml --base-dir /home/pranavanand/Projects/Nthusiast/API/GmailService]
+2023-11-10 09:55:37 [INFO]: Building codeuri: /home/pranavanand/Projects/Nthusiast/API/GmailService runtime: nodejs18.x metadata: {} architecture: x86_64 functions: GmailService
+
+2023-11-10 09:55:37 [INFO]: package.json file not found. Continuing the build without dependencies.
+
+2023-11-10 09:55:37 [INFO]:  Running NodejsNpmBuilder:CopySource
+
+2023-11-10 09:55:37 [INFO]: 
+Build Succeeded
+
+2023-11-10 09:55:37 [INFO]: 
+Built Artifacts  : output
+Built Template   : output/template.yaml
+
+Commands you can use next
+=========================
+[*] Validate SAM template: sam validate
+[*] Invoke Function: sam local invoke -t output/template.yaml
+[*] Test Function in the Cloud: sam sync --stack-name {{stack-name}} --watch
+[*] Deploy: sam deploy --guided --template-file output/template.yaml
+
+2023-11-10 09:55:40 [INFO]: Build complete.
+2023-11-10 09:55:40 [INFO]: Starting SAM application locally
+2023-11-10 09:55:40 [INFO]: AWS.running.command
+Invoking index.handler (nodejs18.x)
+Local image is up-to-date
+Using local image: public.ecr.aws/lambda/nodejs:18-rapid-x86_64.
+
+Mounting /tmp/aws-toolkit-vscode/vsctkV2elEF/output/GmailService as /var/task:ro,delegated, inside runtime container
+START RequestId: 13c9a852-1f37-4f59-8c92-ba4a705b49df Version: $LATEST
+Debugger listening on ws://0.0.0.0:5858/7719cf4b-b699-472a-b633-cd3fe8aa2116
+For help, see: https://nodejs.org/en/docs/inspector
+2023-11-10 09:55:46 [INFO]: Waiting for SAM application to start...
+2023-11-10 09:55:46 [INFO]: Attaching debugger to SAM application...
+Debugger attached.
+2023-11-10 09:55:46 [INFO]: Debugger attached
+2023-11-10T04:25:46.956Z	13c9a852-1f37-4f59-8c92-ba4a705b49df	INFO	Date Now : 1699590346956
+END RequestId: 13c9a852-1f37-4f59-8c92-ba4a705b49df
+REPORT RequestId: 13c9a852-1f37-4f59-8c92-ba4a705b49df	Init Duration: 0.20 ms	Duration: 445.80 ms	Billed Duration: 446 ms	Memory Size: 128 MB	Max Memory Used: 128 MB	
+{"statusCode": 200, "body": "OK"}
+Command stopped: "sam local invoke"
