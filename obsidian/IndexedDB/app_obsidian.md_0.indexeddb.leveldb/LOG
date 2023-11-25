@@ -1,12 +1,3 @@
-2023/11/14-09:35:01.420 1a63 Reusing MANIFEST /home/pranavanand/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
-2023/11/14-09:35:01.420 1a63 Recovering log #21
-2023/11/14-09:35:01.420 1a63 Reusing old log /home/pranavanand/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000021.log 
-2023/11/14-23:35:44.030 1a64 Level-0 table #26: started
-2023/11/14-23:35:44.042 1a64 Level-0 table #26: 1046944 bytes OK
-2023/11/14-23:35:44.050 1a64 Delete type=0 #21
-2023/11/14-23:42:53.957 1a63 Compacting 1@1 + 1@2 files
-2023/11/14-23:42:53.982 1a63 Generated table #27@1: 1765 keys, 756901 bytes
-2023/11/14-23:42:53.982 1a63 Compacted 1@1 + 1@2 files => 756901 bytes
-2023/11/14-23:42:53.989 1a63 compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/11/14-23:42:53.989 1a63 Delete type=2 #23
-2023/11/14-23:42:53.989 1a63 Delete type=2 #26
+2023/11/23-06:59:27.721 1664b Reusing MANIFEST /home/pranavanand/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/23-06:59:27.721 1664b Recovering log #44
+2023/11/23-06:59:27.730 1664b Reusing old log /home/pranavanand/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000044.log 

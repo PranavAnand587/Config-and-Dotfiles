@@ -1,0 +1,16 @@
+2023-11-15 11:51:55.988 [info] Getting Manifest... ms-azuretools.vscode-docker
+2023-11-15 11:51:55.989 [info] Getting Manifest... rangav.vscode-thunder-client
+2023-11-15 11:51:56.527 [info] Installing extension: rangav.vscode-thunder-client
+2023-11-15 11:51:56.565 [info] Installing extension: ms-azuretools.vscode-docker
+2023-11-15 11:52:00.999 [warning] Extension signature verification failed with error 'UnknownError': rangav.vscode-thunder-client
+2023-11-15 11:52:01.000 [warning] Extension signature verification failed with error 'UnknownError': ms-azuretools.vscode-docker
+2023-11-15 11:52:01.107 [info] Extracted extension to file:///home/pranavanand/.vscode/extensions/rangav.vscode-thunder-client-2.16.0: rangav.vscode-thunder-client
+2023-11-15 11:52:01.117 [info] Renamed to /home/pranavanand/.vscode/extensions/rangav.vscode-thunder-client-2.16.0
+2023-11-15 11:52:01.119 [info] Extracting extension completed. rangav.vscode-thunder-client
+2023-11-15 11:52:01.130 [info] Extension installed successfully: rangav.vscode-thunder-client
+2023-11-15 11:52:01.134 [info] Marked extension as uninstalled rangav.vscode-thunder-client-2.15.3
+2023-11-15 11:52:01.136 [info] Extracted extension to file:///home/pranavanand/.vscode/extensions/ms-azuretools.vscode-docker-1.28.0: ms-azuretools.vscode-docker
+2023-11-15 11:52:01.148 [info] Renamed to /home/pranavanand/.vscode/extensions/ms-azuretools.vscode-docker-1.28.0
+2023-11-15 11:52:01.153 [info] Extracting extension completed. ms-azuretools.vscode-docker
+2023-11-15 11:52:01.167 [info] Extension installed successfully: ms-azuretools.vscode-docker
+2023-11-15 11:52:01.171 [info] Marked extension as uninstalled ms-azuretools.vscode-docker-1.27.0

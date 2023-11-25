@@ -1,0 +1,11 @@
+2023-11-15 11:51:50 [INFO]: log level: info
+2023-11-15 11:51:50 [INFO]: endpoints: retrieving AWS endpoints data
+2023-11-15 11:51:50 [INFO]: OS: Linux x64 6.1.51-1-lts
+2023-11-15 11:51:50 [INFO]: Visual Studio Code extension host:  1.82.0
+2023-11-15 11:51:50 [INFO]: AWS Toolkit:  1.98.0
+2023-11-15 11:51:50 [INFO]: node: 18.15.0
+2023-11-15 11:51:50 [INFO]: electron: 25.8.0
+2023-11-15 11:51:51 [WARN]: AwsContext: no default region in credentials profile, falling back to us-east-1: 
+2023-11-15 11:51:54 [WARN]: AwsContext: no default region in credentials profile, falling back to us-east-1: profile:Nthusiast
+2023-11-15 11:56:53 [INFO]: telemetry: sent batch (size=20)
+2023-11-15 11:56:54 [INFO]: telemetry: sent batch (size=4)

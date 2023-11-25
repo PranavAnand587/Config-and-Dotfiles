@@ -1,33 +1,3 @@
-2023/11/13-01:59:37.030 aaa Reusing MANIFEST /home/pranavanand/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
-2023/11/13-01:59:37.030 aaa Recovering log #11
-2023/11/13-01:59:37.037 aaa Reusing old log /home/pranavanand/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000011.log 
-2023/11/13-20:54:00.092 aab Level-0 table #16: started
-2023/11/13-20:54:00.106 aab Level-0 table #16: 1219974 bytes OK
-2023/11/13-20:54:00.114 aab Delete type=0 #11
-2023/11/13-21:00:28.412 aaa Compacting 1@1 + 1@2 files
-2023/11/13-21:00:28.444 aaa Generated table #17@1: 1579 keys, 581731 bytes
-2023/11/13-21:00:28.444 aaa Compacted 1@1 + 1@2 files => 581731 bytes
-2023/11/13-21:00:28.457 aaa compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/11/13-21:00:28.458 aaa Delete type=2 #13
-2023/11/13-21:00:28.458 aaa Delete type=2 #16
-2023/11/14-00:46:08.326 aab Level-0 table #19: started
-2023/11/14-00:46:08.341 aab Level-0 table #19: 1037309 bytes OK
-2023/11/14-00:46:08.349 aab Delete type=0 #15
-2023/11/14-00:54:09.733 aab Compacting 1@1 + 1@2 files
-2023/11/14-00:54:09.748 aab Generated table #20@1: 1647 keys, 633898 bytes
-2023/11/14-00:54:09.748 aab Compacted 1@1 + 1@2 files => 633898 bytes
-2023/11/14-00:54:09.760 aab compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/11/14-00:54:09.760 aab Delete type=2 #17
-2023/11/14-00:54:09.760 aab Delete type=2 #19
-2023/11/14-02:38:28.182 aab Level-0 table #22: started
-2023/11/14-02:38:28.191 aab Level-0 table #22: 680422 bytes OK
-2023/11/14-02:38:28.198 aab Delete type=0 #18
-2023/11/14-02:38:28.199 aab Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2023/11/14-02:38:28.199 aab Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x01%\x00f\x00i\x00l\x00e\x00:\x00S\x00D\x00E\x00/\x00N\x00t\x00h\x00u\x00s\x00i\x00a\x00s\x00t\x00/\x00B\x00a\x00c\x00k\x00e\x00n\x00d\x00 \x00R\x00o\x00a\x00d\x00m\x00a\x00p\x00.\x00m\x00d' @ 61852 : 1
-2023/11/14-02:38:28.199 aab Compacting 1@1 + 1@2 files
-2023/11/14-02:38:28.211 aab Generated table #23@1: 1654 keys, 637816 bytes
-2023/11/14-02:38:28.211 aab Compacted 1@1 + 1@2 files => 637816 bytes
-2023/11/14-02:38:28.218 aab compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/11/14-02:38:28.218 aab Delete type=2 #22
-2023/11/14-02:38:28.218 aab Delete type=2 #20
-2023/11/14-02:38:28.218 aab Manual compaction at level-1 from '\x00\x03\x01\x02\x01%\x00f\x00i\x00l\x00e\x00:\x00S\x00D\x00E\x00/\x00N\x00t\x00h\x00u\x00s\x00i\x00a\x00s\x00t\x00/\x00B\x00a\x00c\x00k\x00e\x00n\x00d\x00 \x00R\x00o\x00a\x00d\x00m\x00a\x00p\x00.\x00m\x00d' @ 61852 : 1 .. (end); will stop at (end)
+2023/11/23-06:59:12.677 16524 Reusing MANIFEST /home/pranavanand/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/23-06:59:12.677 16524 Recovering log #44
+2023/11/23-06:59:12.688 16524 Reusing old log /home/pranavanand/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000044.log 
